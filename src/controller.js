@@ -142,6 +142,6 @@ export async function handlesenddata(req, res) {
     res.status(201).json({ message: "succcessfully data saved in db" });
   } catch (error) {
     console.log(error);
-    res.status(500).json({ message: "something went wrong" });
+    res.status(500).json({ message: error.message});
   }
 }
