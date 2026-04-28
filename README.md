@@ -1,6 +1,8 @@
 # 🚀 Accredian-Clone Backend
 
-**Live Demo:** [accredianclonefrontendvercel.vercel.app](https://accredianclonefrontendvercel.vercel.app/) 
+### Live Demo: [accredianclonefrontendvercel.vercel.app](https://accredianclonefrontendvercel.vercel.app/) 
+
+### Frontend repository: https://github.com/darshankardil-create/Accredian_Clone_FrontEnd
 
 This project provides a robust, scalable backend service designed to handle inquiry form submissions, persist lead data securely in MongoDB, and trigger automated email notifications to both the user and the administrative team.
 
